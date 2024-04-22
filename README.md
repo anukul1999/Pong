@@ -5,6 +5,8 @@ A classic Pong game implemented in C++ using Raylib, featuring a single-player m
 ## Overview
 
 This project presents a simple yet engaging version of Pong. Challenge yourself against a computer-controlled opponent or invite a friend for a head-to-head match.
+![Screenshot 2024-04-22 215233](https://github.com/anukul1999/Pong/assets/167528692/c02f8353-2627-4c91-8653-58a7310b3609)
+
 
 ## Features
 
